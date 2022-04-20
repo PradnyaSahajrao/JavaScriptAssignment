@@ -1,0 +1,20 @@
+h1 {
+    color: lightsalmon;
+    text-decoration: solid;
+    font-style: oblique;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    background-image: url(images/table21.jpg);
+    color: aliceblue
+}
+
+#message-el {
+    font-style: italic;
+}
+
+button {
+    width: 150px;
+}
